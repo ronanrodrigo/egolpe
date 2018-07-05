@@ -2,10 +2,11 @@ title: É Golpe!
 email: contato@egolpe.com.br
 description: >-
   Golpes aplicado no mercado.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "egolpe"
 url: "http://egolpe.com.br"
 twitter_username: jekyllrb
 github_username:  jekyll
+root: egolpe
 
 markdown: kramdown
 theme: minima
